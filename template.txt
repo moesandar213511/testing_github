@@ -1,2 +1,5 @@
 Hello, I am template.php
+
 Hello, template from online
+
+Hello, template from cli cli
